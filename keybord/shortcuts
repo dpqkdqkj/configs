@@ -1,0 +1,2 @@
+sh -c 'mpv $(xclip -selection c -o); exit'  Shift+Ctrl+Y
+sh -c 'mpv $(xclip -selection c -o); exit'  Shift+Ctrl+I
